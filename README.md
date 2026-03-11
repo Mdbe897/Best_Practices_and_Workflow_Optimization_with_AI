@@ -59,7 +59,7 @@ A complete `pricing-component.html` file was then created that defines this reus
 - `broken-pricing.html` — original broken code  
 - `fixed-pricing.html` — corrected layout  
 - `pricing-component.html` — reusable component version
-
+```
 ---
 
 ## Result
